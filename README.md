@@ -72,3 +72,5 @@ I have built a complete suite of Command Line Tools. Here are the highlights:
   <a href="https://linkedin.com/in/pr2v33n"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:praveendperera@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+![Made with Love](https://img.shields.io/badge/Made%20with-Love-red)
